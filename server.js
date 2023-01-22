@@ -1,3 +1,13 @@
+/*********************************************************************************
+* BTI425 – Assignment 1
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: Sidhant Sharma Student ID: 123151219 Date: 19-01-2023
+* Cyclic Link: https://good-gold-indri.cyclic.app/
+*
+********************************************************************************/ 
 var express = require("express");
 var app = express();
 
@@ -84,4 +94,3 @@ db.initialize("mongodb+srv://Sidhant:senecaweb123@senecaweb.dt4u9j7.mongodb.net/
    });
 
 
-//app.listen(HTTP_PORT, onHttpStart);
